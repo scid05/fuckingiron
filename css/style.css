@@ -56,7 +56,9 @@ a {
 
 
 
-.sub li {}
+.sub li {
+    display:none
+}
 
 
 .slide {
